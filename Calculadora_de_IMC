@@ -30,3 +30,4 @@ try:
     print(f"Seu IMC é: {imc} - {classificacao}")
 except ValueError as e:
     print(f"Erro: {e}")
+
